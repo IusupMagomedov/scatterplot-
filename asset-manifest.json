@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/IusupMagomedov/scatterplot-/static/css/main.31d6cfe0.css",
-    "main.js": "/IusupMagomedov/scatterplot-/static/js/main.83bd965f.js",
-    "index.html": "/IusupMagomedov/scatterplot-/index.html",
-    "main.83bd965f.js.map": "/IusupMagomedov/scatterplot-/static/js/main.83bd965f.js.map"
+    "main.css": "/scatterplot-/static/css/main.31d6cfe0.css",
+    "main.js": "/scatterplot-/static/js/main.83bd965f.js",
+    "index.html": "/scatterplot-/index.html",
+    "main.83bd965f.js.map": "/scatterplot-/static/js/main.83bd965f.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
