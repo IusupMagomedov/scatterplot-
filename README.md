@@ -1,6 +1,6 @@
 # Visualize Data with a Scatterplot Graph
 
-Ready project is here: https://github.com/IusupMagomedov/scatterplot-
+Ready project is here: https://iusupmagomedov.github.io/scatterplot-/
 
 The task is:
 
